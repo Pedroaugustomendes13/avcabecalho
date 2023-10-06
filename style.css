@@ -26,5 +26,17 @@ img{
 }
 .logoimg{
     width: 300px;
-    margin-left: 300px;
+    margin-left: 150px;
+}
+.listacabecalho{
+    display: flex;
+    margin-left: 500px;
+    margin-top: 125px;
+}
+.itemlistacabecalho{
+    list-style: none;
+    text-transform: uppercase;
+    color: palevioletred;
+    font-size: 30px;
+    padding-left: 35px;
 }
